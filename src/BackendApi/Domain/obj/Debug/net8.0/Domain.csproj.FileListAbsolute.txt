@@ -1,0 +1,11 @@
+D:\Учеба\Ларионов\BackendApi\Domain\bin\Debug\net8.0\Domain.deps.json
+D:\Учеба\Ларионов\BackendApi\Domain\bin\Debug\net8.0\Domain.dll
+D:\Учеба\Ларионов\BackendApi\Domain\bin\Debug\net8.0\Domain.pdb
+D:\Учеба\Ларионов\BackendApi\Domain\obj\Debug\net8.0\Domain.GeneratedMSBuildEditorConfig.editorconfig
+D:\Учеба\Ларионов\BackendApi\Domain\obj\Debug\net8.0\Domain.AssemblyInfoInputs.cache
+D:\Учеба\Ларионов\BackendApi\Domain\obj\Debug\net8.0\Domain.AssemblyInfo.cs
+D:\Учеба\Ларионов\BackendApi\Domain\obj\Debug\net8.0\Domain.csproj.CoreCompileInputs.cache
+D:\Учеба\Ларионов\BackendApi\Domain\obj\Debug\net8.0\Domain.dll
+D:\Учеба\Ларионов\BackendApi\Domain\obj\Debug\net8.0\refint\Domain.dll
+D:\Учеба\Ларионов\BackendApi\Domain\obj\Debug\net8.0\Domain.pdb
+D:\Учеба\Ларионов\BackendApi\Domain\obj\Debug\net8.0\ref\Domain.dll

@@ -1,0 +1,15 @@
+D:\Учеба\Ларионов\BackendApi\BusinessLogic\bin\Debug\net8.0\BusinessLogic.deps.json
+D:\Учеба\Ларионов\BackendApi\BusinessLogic\bin\Debug\net8.0\BusinessLogic.dll
+D:\Учеба\Ларионов\BackendApi\BusinessLogic\bin\Debug\net8.0\BusinessLogic.pdb
+D:\Учеба\Ларионов\BackendApi\BusinessLogic\obj\Debug\net8.0\BusinessLogic.GeneratedMSBuildEditorConfig.editorconfig
+D:\Учеба\Ларионов\BackendApi\BusinessLogic\obj\Debug\net8.0\BusinessLogic.AssemblyInfoInputs.cache
+D:\Учеба\Ларионов\BackendApi\BusinessLogic\obj\Debug\net8.0\BusinessLogic.AssemblyInfo.cs
+D:\Учеба\Ларионов\BackendApi\BusinessLogic\obj\Debug\net8.0\BusinessLogic.csproj.CoreCompileInputs.cache
+D:\Учеба\Ларионов\BackendApi\BusinessLogic\obj\Debug\net8.0\BusinessLogic.dll
+D:\Учеба\Ларионов\BackendApi\BusinessLogic\obj\Debug\net8.0\refint\BusinessLogic.dll
+D:\Учеба\Ларионов\BackendApi\BusinessLogic\obj\Debug\net8.0\BusinessLogic.pdb
+D:\Учеба\Ларионов\BackendApi\BusinessLogic\obj\Debug\net8.0\ref\BusinessLogic.dll
+D:\Учеба\Ларионов\BackendApi\BusinessLogic\bin\Debug\net8.0\DataAccess.dll
+D:\Учеба\Ларионов\BackendApi\BusinessLogic\bin\Debug\net8.0\DataAccess.pdb
+D:\Учеба\Ларионов\BackendApi\BusinessLogic\obj\Debug\net8.0\BusinessLogic.csproj.AssemblyReference.cache
+D:\Учеба\Ларионов\BackendApi\BusinessLogic\obj\Debug\net8.0\Business.CF5D6E35.Up2Date

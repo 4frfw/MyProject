@@ -1,0 +1,293 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\\u0423\u0447\u0435\u0431\u0430\\\u041B\u0430\u0440\u0438\u043E\u043D\u043E\u0432\\BackendApi\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{53AD9748-A7A4-43C9-9B16-DF98EA51FF39}|BackendApi\\BackendApi.csproj|d:\\\u0443\u0447\u0435\u0431\u0430\\\u043B\u0430\u0440\u0438\u043E\u043D\u043E\u0432\\backendapi\\backendapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{53AD9748-A7A4-43C9-9B16-DF98EA51FF39}|BackendApi\\BackendApi.csproj|solutionrelative:backendapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{470EDE41-C4C9-4818-9FCD-BB8060F1FE72}|DataAccess\\DataAccess.csproj|d:\\\u0443\u0447\u0435\u0431\u0430\\\u043B\u0430\u0440\u0438\u043E\u043D\u043E\u0432\\backendapi\\dataaccess\\models\\ratingsandreviewscontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{470EDE41-C4C9-4818-9FCD-BB8060F1FE72}|DataAccess\\DataAccess.csproj|solutionrelative:dataaccess\\models\\ratingsandreviewscontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{53AD9748-A7A4-43C9-9B16-DF98EA51FF39}|BackendApi\\BackendApi.csproj|d:\\\u0443\u0447\u0435\u0431\u0430\\\u043B\u0430\u0440\u0438\u043E\u043D\u043E\u0432\\backendapi\\backendapi\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{53AD9748-A7A4-43C9-9B16-DF98EA51FF39}|BackendApi\\BackendApi.csproj|solutionrelative:backendapi\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8CD3B170-C317-4D01-80F5-A74DD5A64D1F}|BusinessLogic\\BusinessLogic.csproj|d:\\\u0443\u0447\u0435\u0431\u0430\\\u043B\u0430\u0440\u0438\u043E\u043D\u043E\u0432\\backendapi\\businesslogic\\services\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8CD3B170-C317-4D01-80F5-A74DD5A64D1F}|BusinessLogic\\BusinessLogic.csproj|solutionrelative:businesslogic\\services\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8CD3B170-C317-4D01-80F5-A74DD5A64D1F}|BusinessLogic\\BusinessLogic.csproj|d:\\\u0443\u0447\u0435\u0431\u0430\\\u043B\u0430\u0440\u0438\u043E\u043D\u043E\u0432\\backendapi\\businesslogic\\interfaces\\iuserservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8CD3B170-C317-4D01-80F5-A74DD5A64D1F}|BusinessLogic\\BusinessLogic.csproj|solutionrelative:businesslogic\\interfaces\\iuserservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{470EDE41-C4C9-4818-9FCD-BB8060F1FE72}|DataAccess\\DataAccess.csproj|d:\\\u0443\u0447\u0435\u0431\u0430\\\u043B\u0430\u0440\u0438\u043E\u043D\u043E\u0432\\backendapi\\dataaccess\\wrapper\\repositorywrapper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{470EDE41-C4C9-4818-9FCD-BB8060F1FE72}|DataAccess\\DataAccess.csproj|solutionrelative:dataaccess\\wrapper\\repositorywrapper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{470EDE41-C4C9-4818-9FCD-BB8060F1FE72}|DataAccess\\DataAccess.csproj|d:\\\u0443\u0447\u0435\u0431\u0430\\\u043B\u0430\u0440\u0438\u043E\u043D\u043E\u0432\\backendapi\\dataaccess\\interfaces\\irepositorybase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{470EDE41-C4C9-4818-9FCD-BB8060F1FE72}|DataAccess\\DataAccess.csproj|solutionrelative:dataaccess\\interfaces\\irepositorybase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{470EDE41-C4C9-4818-9FCD-BB8060F1FE72}|DataAccess\\DataAccess.csproj|d:\\\u0443\u0447\u0435\u0431\u0430\\\u043B\u0430\u0440\u0438\u043E\u043D\u043E\u0432\\backendapi\\dataaccess\\interfaces\\iuserrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{470EDE41-C4C9-4818-9FCD-BB8060F1FE72}|DataAccess\\DataAccess.csproj|solutionrelative:dataaccess\\interfaces\\iuserrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{470EDE41-C4C9-4818-9FCD-BB8060F1FE72}|DataAccess\\DataAccess.csproj|d:\\\u0443\u0447\u0435\u0431\u0430\\\u043B\u0430\u0440\u0438\u043E\u043D\u043E\u0432\\backendapi\\dataaccess\\wrapper\\irepositorywrapper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{470EDE41-C4C9-4818-9FCD-BB8060F1FE72}|DataAccess\\DataAccess.csproj|solutionrelative:dataaccess\\wrapper\\irepositorywrapper.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{470EDE41-C4C9-4818-9FCD-BB8060F1FE72}|DataAccess\\DataAccess.csproj|d:\\\u0443\u0447\u0435\u0431\u0430\\\u043B\u0430\u0440\u0438\u043E\u043D\u043E\u0432\\backendapi\\dataaccess\\dataaccess.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{470EDE41-C4C9-4818-9FCD-BB8060F1FE72}|DataAccess\\DataAccess.csproj|solutionrelative:dataaccess\\dataaccess.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{470EDE41-C4C9-4818-9FCD-BB8060F1FE72}|DataAccess\\DataAccess.csproj|d:\\\u0443\u0447\u0435\u0431\u0430\\\u043B\u0430\u0440\u0438\u043E\u043D\u043E\u0432\\backendapi\\dataaccess\\repositories\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{470EDE41-C4C9-4818-9FCD-BB8060F1FE72}|DataAccess\\DataAccess.csproj|solutionrelative:dataaccess\\repositories\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{470EDE41-C4C9-4818-9FCD-BB8060F1FE72}|DataAccess\\DataAccess.csproj|d:\\\u0443\u0447\u0435\u0431\u0430\\\u043B\u0430\u0440\u0438\u043E\u043D\u043E\u0432\\backendapi\\dataaccess\\repositories\\repositorybase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{470EDE41-C4C9-4818-9FCD-BB8060F1FE72}|DataAccess\\DataAccess.csproj|solutionrelative:dataaccess\\repositories\\repositorybase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8CD3B170-C317-4D01-80F5-A74DD5A64D1F}|BusinessLogic\\BusinessLogic.csproj|d:\\\u0443\u0447\u0435\u0431\u0430\\\u043B\u0430\u0440\u0438\u043E\u043D\u043E\u0432\\backendapi\\businesslogic\\businesslogic.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{8CD3B170-C317-4D01-80F5-A74DD5A64D1F}|BusinessLogic\\BusinessLogic.csproj|solutionrelative:businesslogic\\businesslogic.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0FC754E6-1137-448C-A3BE-942729F39ECF}|Domain\\Domain.csproj|d:\\\u0443\u0447\u0435\u0431\u0430\\\u043B\u0430\u0440\u0438\u043E\u043D\u043E\u0432\\backendapi\\domain\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0FC754E6-1137-448C-A3BE-942729F39ECF}|Domain\\Domain.csproj|solutionrelative:domain\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8CD3B170-C317-4D01-80F5-A74DD5A64D1F}|BusinessLogic\\BusinessLogic.csproj|d:\\\u0443\u0447\u0435\u0431\u0430\\\u043B\u0430\u0440\u0438\u043E\u043D\u043E\u0432\\backendapi\\businesslogic\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8CD3B170-C317-4D01-80F5-A74DD5A64D1F}|BusinessLogic\\BusinessLogic.csproj|solutionrelative:businesslogic\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{470EDE41-C4C9-4818-9FCD-BB8060F1FE72}|DataAccess\\DataAccess.csproj|d:\\\u0443\u0447\u0435\u0431\u0430\\\u043B\u0430\u0440\u0438\u043E\u043D\u043E\u0432\\backendapi\\dataaccess\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{470EDE41-C4C9-4818-9FCD-BB8060F1FE72}|DataAccess\\DataAccess.csproj|solutionrelative:dataaccess\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e5c86464-96be-4d7c-9a8b-abcb3bbf5f92}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\\u0423\u0447\u0435\u0431\u0430\\\u041B\u0430\u0440\u0438\u043E\u043D\u043E\u0432\\BackendApi\\BackendApi\\Program.cs",
+              "RelativeDocumentMoniker": "BackendApi\\Program.cs",
+              "ToolTip": "D:\\\u0423\u0447\u0435\u0431\u0430\\\u041B\u0430\u0440\u0438\u043E\u043D\u043E\u0432\\BackendApi\\BackendApi\\Program.cs",
+              "RelativeToolTip": "BackendApi\\Program.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAkAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-18T12:22:50.695Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "UserController.cs",
+              "DocumentMoniker": "D:\\\u0423\u0447\u0435\u0431\u0430\\\u041B\u0430\u0440\u0438\u043E\u043D\u043E\u0432\\BackendApi\\BackendApi\\Controllers\\UserController.cs",
+              "RelativeDocumentMoniker": "BackendApi\\Controllers\\UserController.cs",
+              "ToolTip": "D:\\\u0423\u0447\u0435\u0431\u0430\\\u041B\u0430\u0440\u0438\u043E\u043D\u043E\u0432\\BackendApi\\BackendApi\\Controllers\\UserController.cs",
+              "RelativeToolTip": "BackendApi\\Controllers\\UserController.cs",
+              "ViewState": "AgIAACAAAAAAAAAAAAAqwDEAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-18T12:16:55.325Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "UserService.cs",
+              "DocumentMoniker": "D:\\\u0423\u0447\u0435\u0431\u0430\\\u041B\u0430\u0440\u0438\u043E\u043D\u043E\u0432\\BackendApi\\BusinessLogic\\Services\\UserService.cs",
+              "RelativeDocumentMoniker": "BusinessLogic\\Services\\UserService.cs",
+              "ToolTip": "D:\\\u0423\u0447\u0435\u0431\u0430\\\u041B\u0430\u0440\u0438\u043E\u043D\u043E\u0432\\BackendApi\\BusinessLogic\\Services\\UserService.cs",
+              "RelativeToolTip": "BusinessLogic\\Services\\UserService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-18T11:45:15.594Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "IUserService.cs",
+              "DocumentMoniker": "D:\\\u0423\u0447\u0435\u0431\u0430\\\u041B\u0430\u0440\u0438\u043E\u043D\u043E\u0432\\BackendApi\\BusinessLogic\\Interfaces\\IUserService.cs",
+              "RelativeDocumentMoniker": "BusinessLogic\\Interfaces\\IUserService.cs",
+              "ToolTip": "D:\\\u0423\u0447\u0435\u0431\u0430\\\u041B\u0430\u0440\u0438\u043E\u043D\u043E\u0432\\BackendApi\\BusinessLogic\\Interfaces\\IUserService.cs",
+              "RelativeToolTip": "BusinessLogic\\Interfaces\\IUserService.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAABQAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-18T11:42:09.299Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "IUserRepository.cs",
+              "DocumentMoniker": "D:\\\u0423\u0447\u0435\u0431\u0430\\\u041B\u0430\u0440\u0438\u043E\u043D\u043E\u0432\\BackendApi\\DataAccess\\Interfaces\\IUserRepository.cs",
+              "RelativeDocumentMoniker": "DataAccess\\Interfaces\\IUserRepository.cs",
+              "ToolTip": "D:\\\u0423\u0447\u0435\u0431\u0430\\\u041B\u0430\u0440\u0438\u043E\u043D\u043E\u0432\\BackendApi\\DataAccess\\Interfaces\\IUserRepository.cs",
+              "RelativeToolTip": "DataAccess\\Interfaces\\IUserRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-18T11:09:21.207Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "RepositoryWrapper.cs",
+              "DocumentMoniker": "D:\\\u0423\u0447\u0435\u0431\u0430\\\u041B\u0430\u0440\u0438\u043E\u043D\u043E\u0432\\BackendApi\\DataAccess\\Wrapper\\RepositoryWrapper.cs",
+              "RelativeDocumentMoniker": "DataAccess\\Wrapper\\RepositoryWrapper.cs",
+              "ToolTip": "D:\\\u0423\u0447\u0435\u0431\u0430\\\u041B\u0430\u0440\u0438\u043E\u043D\u043E\u0432\\BackendApi\\DataAccess\\Wrapper\\RepositoryWrapper.cs",
+              "RelativeToolTip": "DataAccess\\Wrapper\\RepositoryWrapper.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-18T11:00:39.546Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "RatingsAndReviewsContext.cs",
+              "DocumentMoniker": "D:\\\u0423\u0447\u0435\u0431\u0430\\\u041B\u0430\u0440\u0438\u043E\u043D\u043E\u0432\\BackendApi\\DataAccess\\Models\\RatingsAndReviewsContext.cs",
+              "RelativeDocumentMoniker": "DataAccess\\Models\\RatingsAndReviewsContext.cs",
+              "ToolTip": "D:\\\u0423\u0447\u0435\u0431\u0430\\\u041B\u0430\u0440\u0438\u043E\u043D\u043E\u0432\\BackendApi\\DataAccess\\Models\\RatingsAndReviewsContext.cs",
+              "RelativeToolTip": "DataAccess\\Models\\RatingsAndReviewsContext.cs",
+              "ViewState": "AgIAABwAAAAAAAAAAADwvyIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-18T08:42:13.041Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "IRepositoryWrapper.cs",
+              "DocumentMoniker": "D:\\\u0423\u0447\u0435\u0431\u0430\\\u041B\u0430\u0440\u0438\u043E\u043D\u043E\u0432\\BackendApi\\DataAccess\\Wrapper\\IRepositoryWrapper.cs",
+              "RelativeDocumentMoniker": "DataAccess\\Wrapper\\IRepositoryWrapper.cs",
+              "ToolTip": "D:\\\u0423\u0447\u0435\u0431\u0430\\\u041B\u0430\u0440\u0438\u043E\u043D\u043E\u0432\\BackendApi\\DataAccess\\Wrapper\\IRepositoryWrapper.cs",
+              "RelativeToolTip": "DataAccess\\Wrapper\\IRepositoryWrapper.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-18T11:00:22.336Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "DataAccess.csproj",
+              "DocumentMoniker": "D:\\\u0423\u0447\u0435\u0431\u0430\\\u041B\u0430\u0440\u0438\u043E\u043D\u043E\u0432\\BackendApi\\DataAccess\\DataAccess.csproj",
+              "RelativeDocumentMoniker": "DataAccess\\DataAccess.csproj",
+              "ToolTip": "D:\\\u0423\u0447\u0435\u0431\u0430\\\u041B\u0430\u0440\u0438\u043E\u043D\u043E\u0432\\BackendApi\\DataAccess\\DataAccess.csproj",
+              "RelativeToolTip": "DataAccess\\DataAccess.csproj",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAnwA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-12-18T06:51:40.301Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "IRepositoryBase.cs",
+              "DocumentMoniker": "D:\\\u0423\u0447\u0435\u0431\u0430\\\u041B\u0430\u0440\u0438\u043E\u043D\u043E\u0432\\BackendApi\\DataAccess\\Interfaces\\IRepositoryBase.cs",
+              "RelativeDocumentMoniker": "DataAccess\\Interfaces\\IRepositoryBase.cs",
+              "ToolTip": "D:\\\u0423\u0447\u0435\u0431\u0430\\\u041B\u0430\u0440\u0438\u043E\u043D\u043E\u0432\\BackendApi\\DataAccess\\Interfaces\\IRepositoryBase.cs",
+              "RelativeToolTip": "DataAccess\\Interfaces\\IRepositoryBase.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAkAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-18T10:47:47.05Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "UserRepository.cs",
+              "DocumentMoniker": "D:\\\u0423\u0447\u0435\u0431\u0430\\\u041B\u0430\u0440\u0438\u043E\u043D\u043E\u0432\\BackendApi\\DataAccess\\Repositories\\UserRepository.cs",
+              "RelativeDocumentMoniker": "DataAccess\\Repositories\\UserRepository.cs",
+              "ToolTip": "D:\\\u0423\u0447\u0435\u0431\u0430\\\u041B\u0430\u0440\u0438\u043E\u043D\u043E\u0432\\BackendApi\\DataAccess\\Repositories\\UserRepository.cs",
+              "RelativeToolTip": "DataAccess\\Repositories\\UserRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-18T11:10:58.739Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "BusinessLogic",
+              "DocumentMoniker": "D:\\\u0423\u0447\u0435\u0431\u0430\\\u041B\u0430\u0440\u0438\u043E\u043D\u043E\u0432\\BackendApi\\BusinessLogic\\BusinessLogic.csproj",
+              "RelativeDocumentMoniker": "BusinessLogic\\BusinessLogic.csproj",
+              "ToolTip": "D:\\\u0423\u0447\u0435\u0431\u0430\\\u041B\u0430\u0440\u0438\u043E\u043D\u043E\u0432\\BackendApi\\BusinessLogic\\BusinessLogic.csproj",
+              "RelativeToolTip": "BusinessLogic\\BusinessLogic.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-12-18T11:03:32.137Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "RepositoryBase.cs",
+              "DocumentMoniker": "D:\\\u0423\u0447\u0435\u0431\u0430\\\u041B\u0430\u0440\u0438\u043E\u043D\u043E\u0432\\BackendApi\\DataAccess\\Repositories\\RepositoryBase.cs",
+              "RelativeDocumentMoniker": "DataAccess\\Repositories\\RepositoryBase.cs",
+              "ToolTip": "D:\\\u0423\u0447\u0435\u0431\u0430\\\u041B\u0430\u0440\u0438\u043E\u043D\u043E\u0432\\BackendApi\\DataAccess\\Repositories\\RepositoryBase.cs",
+              "RelativeToolTip": "DataAccess\\Repositories\\RepositoryBase.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAgwBoAAABSAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-18T10:52:04.794Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "D:\\\u0423\u0447\u0435\u0431\u0430\\\u041B\u0430\u0440\u0438\u043E\u043D\u043E\u0432\\BackendApi\\Domain\\Class1.cs",
+              "RelativeDocumentMoniker": "Domain\\Class1.cs",
+              "ToolTip": "D:\\\u0423\u0447\u0435\u0431\u0430\\\u041B\u0430\u0440\u0438\u043E\u043D\u043E\u0432\\BackendApi\\Domain\\Class1.cs",
+              "RelativeToolTip": "Domain\\Class1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-18T06:52:09.264Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "D:\\\u0423\u0447\u0435\u0431\u0430\\\u041B\u0430\u0440\u0438\u043E\u043D\u043E\u0432\\BackendApi\\BusinessLogic\\Class1.cs",
+              "RelativeDocumentMoniker": "BusinessLogic\\Class1.cs",
+              "ToolTip": "D:\\\u0423\u0447\u0435\u0431\u0430\\\u041B\u0430\u0440\u0438\u043E\u043D\u043E\u0432\\BackendApi\\BusinessLogic\\Class1.cs",
+              "RelativeToolTip": "BusinessLogic\\Class1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-18T06:51:12.698Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "D:\\\u0423\u0447\u0435\u0431\u0430\\\u041B\u0430\u0440\u0438\u043E\u043D\u043E\u0432\\BackendApi\\DataAccess\\Class1.cs",
+              "RelativeDocumentMoniker": "DataAccess\\Class1.cs",
+              "ToolTip": "D:\\\u0423\u0447\u0435\u0431\u0430\\\u041B\u0430\u0440\u0438\u043E\u043D\u043E\u0432\\BackendApi\\DataAccess\\Class1.cs",
+              "RelativeToolTip": "DataAccess\\Class1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-18T06:43:01.307Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
