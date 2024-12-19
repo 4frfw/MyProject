@@ -1,7 +1,6 @@
 FROM mcr.microsoft.com/dotnet/sdk:8.0 AS base
 
 EXPOSE 80
-ENV ASPNETCORE_URLS="http://+:80"
 ENV ASPNETCORE_ENVIRONMENT="Development"
 
 WORKDIR /app
@@ -24,5 +23,3 @@ WORKDIR /app
 
 COPY --from=publish /app/publish .
 ENTRYPOINT ["dotnet", "BackendApi.dll"]
-
-

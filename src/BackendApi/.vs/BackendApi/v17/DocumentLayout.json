@@ -138,8 +138,7 @@
               "RelativeToolTip": "DataAccess\\Repositories\\RepositoryBase.cs",
               "ViewState": "AgIAABcAAAAAAAAAAAAAACAAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-18T10:52:04.794Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-18T10:52:04.794Z"
             },
             {
               "$type": "Document",
@@ -190,6 +189,10 @@
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
               "WhenOpened": "2024-12-18T20:50:35.659Z",
               "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e5c86464-96be-4d7c-9a8b-abcb3bbf5f92}"
             },
             {
               "$type": "Document",
@@ -249,12 +252,7 @@
               "RelativeToolTip": "BackendApi\\Controllers\\UserController.cs",
               "ViewState": "AgIAAA0AAAAAAAAAAAAkwCIAAAAIAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-18T12:16:55.325Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{e5c86464-96be-4d7c-9a8b-abcb3bbf5f92}"
+              "WhenOpened": "2024-12-18T12:16:55.325Z"
             },
             {
               "$type": "Document",
@@ -362,7 +360,8 @@
               "RelativeToolTip": "DataAccess\\DataAccess.csproj",
               "ViewState": "AgIAAAMAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2024-12-18T06:51:40.301Z"
+              "WhenOpened": "2024-12-18T06:51:40.301Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -385,7 +384,8 @@
               "ToolTip": "D:\\\u0423\u0447\u0435\u0431\u0430\\\u041B\u0430\u0440\u0438\u043E\u043D\u043E\u0432\\MyProject\\src\\BackendApi\\BusinessLogic\\BusinessLogic.csproj",
               "RelativeToolTip": "BusinessLogic\\BusinessLogic.csproj",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2024-12-19T08:53:15.686Z"
+              "WhenOpened": "2024-12-19T08:53:15.686Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -397,7 +397,8 @@
               "RelativeToolTip": "Domain\\Domain.csproj",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2024-12-18T14:20:11.851Z"
+              "WhenOpened": "2024-12-18T14:20:11.851Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",

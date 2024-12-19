@@ -3,6 +3,18 @@
   "WorkspaceRootPath": "D:\\\u0423\u0447\u0435\u0431\u0430\\\u041B\u0430\u0440\u0438\u043E\u043D\u043E\u0432\\MyProject\\src\\BackendApi\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{53AD9748-A7A4-43C9-9B16-DF98EA51FF39}|BackendApi\\BackendApi.csproj|d:\\\u0443\u0447\u0435\u0431\u0430\\\u043B\u0430\u0440\u0438\u043E\u043D\u043E\u0432\\myproject\\src\\backendapi\\backendapi\\backendapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{53AD9748-A7A4-43C9-9B16-DF98EA51FF39}|BackendApi\\BackendApi.csproj|solutionrelative:backendapi\\backendapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8CD3B170-C317-4D01-80F5-A74DD5A64D1F}|BusinessLogic\\BusinessLogic.csproj|d:\\\u0443\u0447\u0435\u0431\u0430\\\u043B\u0430\u0440\u0438\u043E\u043D\u043E\u0432\\myproject\\src\\backendapi\\businesslogic\\businesslogic.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{8CD3B170-C317-4D01-80F5-A74DD5A64D1F}|BusinessLogic\\BusinessLogic.csproj|solutionrelative:businesslogic\\businesslogic.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{470EDE41-C4C9-4818-9FCD-BB8060F1FE72}|DataAccess\\DataAccess.csproj|d:\\\u0443\u0447\u0435\u0431\u0430\\\u043B\u0430\u0440\u0438\u043E\u043D\u043E\u0432\\myproject\\src\\backendapi\\dataaccess\\repositories\\repositorybase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{470EDE41-C4C9-4818-9FCD-BB8060F1FE72}|DataAccess\\DataAccess.csproj|solutionrelative:dataaccess\\repositories\\repositorybase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{53AD9748-A7A4-43C9-9B16-DF98EA51FF39}|BackendApi\\BackendApi.csproj|d:\\\u0443\u0447\u0435\u0431\u0430\\\u043B\u0430\u0440\u0438\u043E\u043D\u043E\u0432\\myproject\\src\\backendapi\\backendapi\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{53AD9748-A7A4-43C9-9B16-DF98EA51FF39}|BackendApi\\BackendApi.csproj|solutionrelative:backendapi\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -67,24 +79,12 @@
       "RelativeMoniker": "D:0:0:{470EDE41-C4C9-4818-9FCD-BB8060F1FE72}|DataAccess\\DataAccess.csproj|solutionrelative:dataaccess\\repositories\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{470EDE41-C4C9-4818-9FCD-BB8060F1FE72}|DataAccess\\DataAccess.csproj|d:\\\u0443\u0447\u0435\u0431\u0430\\\u043B\u0430\u0440\u0438\u043E\u043D\u043E\u0432\\myproject\\src\\backendapi\\dataaccess\\repositories\\repositorybase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{470EDE41-C4C9-4818-9FCD-BB8060F1FE72}|DataAccess\\DataAccess.csproj|solutionrelative:dataaccess\\repositories\\repositorybase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{470EDE41-C4C9-4818-9FCD-BB8060F1FE72}|DataAccess\\DataAccess.csproj|d:\\\u0443\u0447\u0435\u0431\u0430\\\u043B\u0430\u0440\u0438\u043E\u043D\u043E\u0432\\myproject\\src\\backendapi\\dataaccess\\dataaccess.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
       "RelativeMoniker": "D:0:0:{470EDE41-C4C9-4818-9FCD-BB8060F1FE72}|DataAccess\\DataAccess.csproj|solutionrelative:dataaccess\\dataaccess.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     },
     {
       "AbsoluteMoniker": "D:0:0:{8CD3B170-C317-4D01-80F5-A74DD5A64D1F}|BusinessLogic\\BusinessLogic.csproj|d:\\\u0443\u0447\u0435\u0431\u0430\\\u043B\u0430\u0440\u0438\u043E\u043D\u043E\u0432\\myproject\\src\\backendapi\\businesslogic\\services\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{8CD3B170-C317-4D01-80F5-A74DD5A64D1F}|BusinessLogic\\BusinessLogic.csproj|solutionrelative:businesslogic\\services\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{8CD3B170-C317-4D01-80F5-A74DD5A64D1F}|BusinessLogic\\BusinessLogic.csproj|d:\\\u0443\u0447\u0435\u0431\u0430\\\u043B\u0430\u0440\u0438\u043E\u043D\u043E\u0432\\myproject\\src\\backendapi\\businesslogic\\businesslogic.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{8CD3B170-C317-4D01-80F5-A74DD5A64D1F}|BusinessLogic\\BusinessLogic.csproj|solutionrelative:businesslogic\\businesslogic.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{53AD9748-A7A4-43C9-9B16-DF98EA51FF39}|BackendApi\\BackendApi.csproj|d:\\\u0443\u0447\u0435\u0431\u0430\\\u043B\u0430\u0440\u0438\u043E\u043D\u043E\u0432\\myproject\\src\\backendapi\\backendapi\\backendapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{53AD9748-A7A4-43C9-9B16-DF98EA51FF39}|BackendApi\\BackendApi.csproj|solutionrelative:backendapi\\backendapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     },
     {
       "AbsoluteMoniker": "D:0:0:{8CD3B170-C317-4D01-80F5-A74DD5A64D1F}|BusinessLogic\\BusinessLogic.csproj|d:\\\u0443\u0447\u0435\u0431\u0430\\\u043B\u0430\u0440\u0438\u043E\u043D\u043E\u0432\\myproject\\src\\backendapi\\businesslogic\\businesslogic.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
@@ -114,11 +114,149 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 8,
+          "SelectedChildIndex": 5,
           "Children": [
             {
               "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "IUserRepository.cs",
+              "DocumentMoniker": "D:\\\u0423\u0447\u0435\u0431\u0430\\\u041B\u0430\u0440\u0438\u043E\u043D\u043E\u0432\\MyProject\\src\\BackendApi\\Domain\\Interfaces\\IUserRepository.cs",
+              "RelativeDocumentMoniker": "Domain\\Interfaces\\IUserRepository.cs",
+              "ToolTip": "D:\\\u0423\u0447\u0435\u0431\u0430\\\u041B\u0430\u0440\u0438\u043E\u043D\u043E\u0432\\MyProject\\src\\BackendApi\\Domain\\Interfaces\\IUserRepository.cs",
+              "RelativeToolTip": "Domain\\Interfaces\\IUserRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-18T14:26:20.085Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "RepositoryBase.cs",
+              "DocumentMoniker": "D:\\\u0423\u0447\u0435\u0431\u0430\\\u041B\u0430\u0440\u0438\u043E\u043D\u043E\u0432\\MyProject\\src\\BackendApi\\DataAccess\\Repositories\\RepositoryBase.cs",
+              "RelativeDocumentMoniker": "DataAccess\\Repositories\\RepositoryBase.cs",
+              "ToolTip": "D:\\\u0423\u0447\u0435\u0431\u0430\\\u041B\u0430\u0440\u0438\u043E\u043D\u043E\u0432\\MyProject\\src\\BackendApi\\DataAccess\\Repositories\\RepositoryBase.cs",
+              "RelativeToolTip": "DataAccess\\Repositories\\RepositoryBase.cs",
+              "ViewState": "AgIAABcAAAAAAAAAAAAAACAAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-18T10:52:04.794Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "ProductFavorite.cs",
+              "DocumentMoniker": "D:\\\u0423\u0447\u0435\u0431\u0430\\\u041B\u0430\u0440\u0438\u043E\u043D\u043E\u0432\\MyProject\\src\\BackendApi\\Domain\\Models\\Models\\ProductFavorite.cs",
+              "RelativeDocumentMoniker": "Domain\\Models\\Models\\ProductFavorite.cs",
+              "ToolTip": "D:\\\u0423\u0447\u0435\u0431\u0430\\\u041B\u0430\u0440\u0438\u043E\u043D\u043E\u0432\\MyProject\\src\\BackendApi\\Domain\\Models\\Models\\ProductFavorite.cs",
+              "RelativeToolTip": "Domain\\Models\\Models\\ProductFavorite.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-18T14:25:18.273Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Review.cs",
+              "DocumentMoniker": "D:\\\u0423\u0447\u0435\u0431\u0430\\\u041B\u0430\u0440\u0438\u043E\u043D\u043E\u0432\\MyProject\\src\\BackendApi\\Domain\\Models\\Models\\Review.cs",
+              "RelativeDocumentMoniker": "Domain\\Models\\Models\\Review.cs",
+              "ToolTip": "D:\\\u0423\u0447\u0435\u0431\u0430\\\u041B\u0430\u0440\u0438\u043E\u043D\u043E\u0432\\MyProject\\src\\BackendApi\\Domain\\Models\\Models\\Review.cs",
+              "RelativeToolTip": "Domain\\Models\\Models\\Review.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAA6wBsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-18T14:25:32.319Z"
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 1,
+              "Title": "BusinessLogic.csproj",
+              "DocumentMoniker": "D:\\\u0423\u0447\u0435\u0431\u0430\\\u041B\u0430\u0440\u0438\u043E\u043D\u043E\u0432\\MyProject\\src\\BackendApi\\BusinessLogic\\BusinessLogic.csproj",
+              "RelativeDocumentMoniker": "BusinessLogic\\BusinessLogic.csproj",
+              "ToolTip": "D:\\\u0423\u0447\u0435\u0431\u0430\\\u041B\u0430\u0440\u0438\u043E\u043D\u043E\u0432\\MyProject\\src\\BackendApi\\BusinessLogic\\BusinessLogic.csproj",
+              "RelativeToolTip": "BusinessLogic\\BusinessLogic.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-12-18T11:03:32.137Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "BackendApi.csproj",
+              "DocumentMoniker": "D:\\\u0423\u0447\u0435\u0431\u0430\\\u041B\u0430\u0440\u0438\u043E\u043D\u043E\u0432\\MyProject\\src\\BackendApi\\BackendApi\\BackendApi.csproj",
+              "RelativeDocumentMoniker": "BackendApi\\BackendApi.csproj",
+              "ToolTip": "D:\\\u0423\u0447\u0435\u0431\u0430\\\u041B\u0430\u0440\u0438\u043E\u043D\u043E\u0432\\MyProject\\src\\BackendApi\\BackendApi\\BackendApi.csproj",
+              "RelativeToolTip": "BackendApi\\BackendApi.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAABCAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-12-18T20:50:35.659Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e5c86464-96be-4d7c-9a8b-abcb3bbf5f92}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "IUserService.cs",
+              "DocumentMoniker": "D:\\\u0423\u0447\u0435\u0431\u0430\\\u041B\u0430\u0440\u0438\u043E\u043D\u043E\u0432\\MyProject\\src\\BackendApi\\Domain\\Interfaces\\IUserService.cs",
+              "RelativeDocumentMoniker": "Domain\\Interfaces\\IUserService.cs",
+              "ToolTip": "D:\\\u0423\u0447\u0435\u0431\u0430\\\u041B\u0430\u0440\u0438\u043E\u043D\u043E\u0432\\MyProject\\src\\BackendApi\\Domain\\Interfaces\\IUserService.cs",
+              "RelativeToolTip": "Domain\\Interfaces\\IUserService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-18T14:26:31.836Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Category.cs",
+              "DocumentMoniker": "D:\\\u0423\u0447\u0435\u0431\u0430\\\u041B\u0430\u0440\u0438\u043E\u043D\u043E\u0432\\MyProject\\src\\BackendApi\\Domain\\Models\\Models\\Category.cs",
+              "RelativeDocumentMoniker": "Domain\\Models\\Models\\Category.cs",
+              "ToolTip": "D:\\\u0423\u0447\u0435\u0431\u0430\\\u041B\u0430\u0440\u0438\u043E\u043D\u043E\u0432\\MyProject\\src\\BackendApi\\Domain\\Models\\Models\\Category.cs",
+              "RelativeToolTip": "Domain\\Models\\Models\\Category.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-18T14:24:50.84Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Product.cs",
+              "DocumentMoniker": "D:\\\u0423\u0447\u0435\u0431\u0430\\\u041B\u0430\u0440\u0438\u043E\u043D\u043E\u0432\\MyProject\\src\\BackendApi\\Domain\\Models\\Models\\Product.cs",
+              "RelativeDocumentMoniker": "Domain\\Models\\Models\\Product.cs",
+              "ToolTip": "D:\\\u0423\u0447\u0435\u0431\u0430\\\u041B\u0430\u0440\u0438\u043E\u043D\u043E\u0432\\MyProject\\src\\BackendApi\\Domain\\Models\\Models\\Product.cs",
+              "RelativeToolTip": "Domain\\Models\\Models\\Product.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAA6wB0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-18T14:25:13.486Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "IRepositoryWrapper.cs",
+              "DocumentMoniker": "D:\\\u0423\u0447\u0435\u0431\u0430\\\u041B\u0430\u0440\u0438\u043E\u043D\u043E\u0432\\MyProject\\src\\BackendApi\\Domain\\Interfaces\\IRepositoryWrapper.cs",
+              "RelativeDocumentMoniker": "Domain\\Interfaces\\IRepositoryWrapper.cs",
+              "ToolTip": "D:\\\u0423\u0447\u0435\u0431\u0430\\\u041B\u0430\u0440\u0438\u043E\u043D\u043E\u0432\\MyProject\\src\\BackendApi\\Domain\\Interfaces\\IRepositoryWrapper.cs",
+              "RelativeToolTip": "Domain\\Interfaces\\IRepositoryWrapper.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-18T14:26:12.775Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "UserController.cs",
+              "DocumentMoniker": "D:\\\u0423\u0447\u0435\u0431\u0430\\\u041B\u0430\u0440\u0438\u043E\u043D\u043E\u0432\\MyProject\\src\\BackendApi\\BackendApi\\Controllers\\UserController.cs",
+              "RelativeDocumentMoniker": "BackendApi\\Controllers\\UserController.cs",
+              "ToolTip": "D:\\\u0423\u0447\u0435\u0431\u0430\\\u041B\u0430\u0440\u0438\u043E\u043D\u043E\u0432\\MyProject\\src\\BackendApi\\BackendApi\\Controllers\\UserController.cs",
+              "RelativeToolTip": "BackendApi\\Controllers\\UserController.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAkwCIAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-18T12:16:55.325Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
               "Title": "UserRoleAssociation.cs",
               "DocumentMoniker": "D:\\\u0423\u0447\u0435\u0431\u0430\\\u041B\u0430\u0440\u0438\u043E\u043D\u043E\u0432\\MyProject\\src\\BackendApi\\Domain\\Models\\Models\\UserRoleAssociation.cs",
               "RelativeDocumentMoniker": "Domain\\Models\\Models\\UserRoleAssociation.cs",
@@ -131,107 +269,6 @@
             {
               "$type": "Document",
               "DocumentIndex": 6,
-              "Title": "Review.cs",
-              "DocumentMoniker": "D:\\\u0423\u0447\u0435\u0431\u0430\\\u041B\u0430\u0440\u0438\u043E\u043D\u043E\u0432\\MyProject\\src\\BackendApi\\Domain\\Models\\Models\\Review.cs",
-              "RelativeDocumentMoniker": "Domain\\Models\\Models\\Review.cs",
-              "ToolTip": "D:\\\u0423\u0447\u0435\u0431\u0430\\\u041B\u0430\u0440\u0438\u043E\u043D\u043E\u0432\\MyProject\\src\\BackendApi\\Domain\\Models\\Models\\Review.cs",
-              "RelativeToolTip": "Domain\\Models\\Models\\Review.cs",
-              "ViewState": "AgIAAAkAAAAAAAAAAAA6wBsAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-18T14:25:32.319Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "ProductFavorite.cs",
-              "DocumentMoniker": "D:\\\u0423\u0447\u0435\u0431\u0430\\\u041B\u0430\u0440\u0438\u043E\u043D\u043E\u0432\\MyProject\\src\\BackendApi\\Domain\\Models\\Models\\ProductFavorite.cs",
-              "RelativeDocumentMoniker": "Domain\\Models\\Models\\ProductFavorite.cs",
-              "ToolTip": "D:\\\u0423\u0447\u0435\u0431\u0430\\\u041B\u0430\u0440\u0438\u043E\u043D\u043E\u0432\\MyProject\\src\\BackendApi\\Domain\\Models\\Models\\ProductFavorite.cs",
-              "RelativeToolTip": "Domain\\Models\\Models\\ProductFavorite.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-18T14:25:18.273Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "Product.cs",
-              "DocumentMoniker": "D:\\\u0423\u0447\u0435\u0431\u0430\\\u041B\u0430\u0440\u0438\u043E\u043D\u043E\u0432\\MyProject\\src\\BackendApi\\Domain\\Models\\Models\\Product.cs",
-              "RelativeDocumentMoniker": "Domain\\Models\\Models\\Product.cs",
-              "ToolTip": "D:\\\u0423\u0447\u0435\u0431\u0430\\\u041B\u0430\u0440\u0438\u043E\u043D\u043E\u0432\\MyProject\\src\\BackendApi\\Domain\\Models\\Models\\Product.cs",
-              "RelativeToolTip": "Domain\\Models\\Models\\Product.cs",
-              "ViewState": "AgIAAAsAAAAAAAAAAAA6wB0AAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-18T14:25:13.486Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "Category.cs",
-              "DocumentMoniker": "D:\\\u0423\u0447\u0435\u0431\u0430\\\u041B\u0430\u0440\u0438\u043E\u043D\u043E\u0432\\MyProject\\src\\BackendApi\\Domain\\Models\\Models\\Category.cs",
-              "RelativeDocumentMoniker": "Domain\\Models\\Models\\Category.cs",
-              "ToolTip": "D:\\\u0423\u0447\u0435\u0431\u0430\\\u041B\u0430\u0440\u0438\u043E\u043D\u043E\u0432\\MyProject\\src\\BackendApi\\Domain\\Models\\Models\\Category.cs",
-              "RelativeToolTip": "Domain\\Models\\Models\\Category.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-18T14:24:50.84Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "IUserService.cs",
-              "DocumentMoniker": "D:\\\u0423\u0447\u0435\u0431\u0430\\\u041B\u0430\u0440\u0438\u043E\u043D\u043E\u0432\\MyProject\\src\\BackendApi\\Domain\\Interfaces\\IUserService.cs",
-              "RelativeDocumentMoniker": "Domain\\Interfaces\\IUserService.cs",
-              "ToolTip": "D:\\\u0423\u0447\u0435\u0431\u0430\\\u041B\u0430\u0440\u0438\u043E\u043D\u043E\u0432\\MyProject\\src\\BackendApi\\Domain\\Interfaces\\IUserService.cs",
-              "RelativeToolTip": "Domain\\Interfaces\\IUserService.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-18T14:26:31.836Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "IUserRepository.cs",
-              "DocumentMoniker": "D:\\\u0423\u0447\u0435\u0431\u0430\\\u041B\u0430\u0440\u0438\u043E\u043D\u043E\u0432\\MyProject\\src\\BackendApi\\Domain\\Interfaces\\IUserRepository.cs",
-              "RelativeDocumentMoniker": "Domain\\Interfaces\\IUserRepository.cs",
-              "ToolTip": "D:\\\u0423\u0447\u0435\u0431\u0430\\\u041B\u0430\u0440\u0438\u043E\u043D\u043E\u0432\\MyProject\\src\\BackendApi\\Domain\\Interfaces\\IUserRepository.cs",
-              "RelativeToolTip": "Domain\\Interfaces\\IUserRepository.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-18T14:26:20.085Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 12,
-              "Title": "IRepositoryWrapper.cs",
-              "DocumentMoniker": "D:\\\u0423\u0447\u0435\u0431\u0430\\\u041B\u0430\u0440\u0438\u043E\u043D\u043E\u0432\\MyProject\\src\\BackendApi\\Domain\\Interfaces\\IRepositoryWrapper.cs",
-              "RelativeDocumentMoniker": "Domain\\Interfaces\\IRepositoryWrapper.cs",
-              "ToolTip": "D:\\\u0423\u0447\u0435\u0431\u0430\\\u041B\u0430\u0440\u0438\u043E\u043D\u043E\u0432\\MyProject\\src\\BackendApi\\Domain\\Interfaces\\IRepositoryWrapper.cs",
-              "RelativeToolTip": "Domain\\Interfaces\\IRepositoryWrapper.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-18T14:26:12.775Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "UserController.cs",
-              "DocumentMoniker": "D:\\\u0423\u0447\u0435\u0431\u0430\\\u041B\u0430\u0440\u0438\u043E\u043D\u043E\u0432\\MyProject\\src\\BackendApi\\BackendApi\\Controllers\\UserController.cs",
-              "RelativeDocumentMoniker": "BackendApi\\Controllers\\UserController.cs",
-              "ToolTip": "D:\\\u0423\u0447\u0435\u0431\u0430\\\u041B\u0430\u0440\u0438\u043E\u043D\u043E\u0432\\MyProject\\src\\BackendApi\\BackendApi\\Controllers\\UserController.cs",
-              "RelativeToolTip": "BackendApi\\Controllers\\UserController.cs",
-              "ViewState": "AgIAAA0AAAAAAAAAAAAkwCIAAAAIAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-18T12:16:55.325Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{e5c86464-96be-4d7c-9a8b-abcb3bbf5f92}"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
               "Title": "UserRole.cs",
               "DocumentMoniker": "D:\\\u0423\u0447\u0435\u0431\u0430\\\u041B\u0430\u0440\u0438\u043E\u043D\u043E\u0432\\MyProject\\src\\BackendApi\\Domain\\Models\\Models\\UserRole.cs",
               "RelativeDocumentMoniker": "Domain\\Models\\Models\\UserRole.cs",
@@ -243,7 +280,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 5,
               "Title": "UserProfile.cs",
               "DocumentMoniker": "D:\\\u0423\u0447\u0435\u0431\u0430\\\u041B\u0430\u0440\u0438\u043E\u043D\u043E\u0432\\MyProject\\src\\BackendApi\\Domain\\Models\\Models\\UserProfile.cs",
               "RelativeDocumentMoniker": "Domain\\Models\\Models\\UserProfile.cs",
@@ -255,7 +292,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 7,
               "Title": "User.cs",
               "DocumentMoniker": "D:\\\u0423\u0447\u0435\u0431\u0430\\\u041B\u0430\u0440\u0438\u043E\u043D\u043E\u0432\\MyProject\\src\\BackendApi\\Domain\\Models\\Models\\User.cs",
               "RelativeDocumentMoniker": "Domain\\Models\\Models\\User.cs",
@@ -267,7 +304,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 8,
               "Title": "ReviewReaction.cs",
               "DocumentMoniker": "D:\\\u0423\u0447\u0435\u0431\u0430\\\u041B\u0430\u0440\u0438\u043E\u043D\u043E\u0432\\MyProject\\src\\BackendApi\\Domain\\Models\\Models\\ReviewReaction.cs",
               "RelativeDocumentMoniker": "Domain\\Models\\Models\\ReviewReaction.cs",
@@ -279,7 +316,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 16,
               "Title": "IRepositoryBase.cs",
               "DocumentMoniker": "D:\\\u0423\u0447\u0435\u0431\u0430\\\u041B\u0430\u0440\u0438\u043E\u043D\u043E\u0432\\MyProject\\src\\BackendApi\\Domain\\Interfaces\\IRepositoryBase.cs",
               "RelativeDocumentMoniker": "Domain\\Interfaces\\IRepositoryBase.cs",
@@ -291,7 +328,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 17,
               "Title": "RepositoryWrapper.cs",
               "DocumentMoniker": "D:\\\u0423\u0447\u0435\u0431\u0430\\\u041B\u0430\u0440\u0438\u043E\u043D\u043E\u0432\\MyProject\\src\\BackendApi\\DataAccess\\Wrapper\\RepositoryWrapper.cs",
               "RelativeDocumentMoniker": "DataAccess\\Wrapper\\RepositoryWrapper.cs",
@@ -303,7 +340,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 15,
+              "DocumentIndex": 18,
               "Title": "UserRepository.cs",
               "DocumentMoniker": "D:\\\u0423\u0447\u0435\u0431\u0430\\\u041B\u0430\u0440\u0438\u043E\u043D\u043E\u0432\\MyProject\\src\\BackendApi\\DataAccess\\Repositories\\UserRepository.cs",
               "RelativeDocumentMoniker": "DataAccess\\Repositories\\UserRepository.cs",
@@ -315,19 +352,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 16,
-              "Title": "RepositoryBase.cs",
-              "DocumentMoniker": "D:\\\u0423\u0447\u0435\u0431\u0430\\\u041B\u0430\u0440\u0438\u043E\u043D\u043E\u0432\\MyProject\\src\\BackendApi\\DataAccess\\Repositories\\RepositoryBase.cs",
-              "RelativeDocumentMoniker": "DataAccess\\Repositories\\RepositoryBase.cs",
-              "ToolTip": "D:\\\u0423\u0447\u0435\u0431\u0430\\\u041B\u0430\u0440\u0438\u043E\u043D\u043E\u0432\\MyProject\\src\\BackendApi\\DataAccess\\Repositories\\RepositoryBase.cs",
-              "RelativeToolTip": "DataAccess\\Repositories\\RepositoryBase.cs",
-              "ViewState": "AgIAAA0AAAAAAAAAAAAqwCAAAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-18T10:52:04.794Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 17,
+              "DocumentIndex": 19,
               "Title": "DataAccess.csproj",
               "DocumentMoniker": "D:\\\u0423\u0447\u0435\u0431\u0430\\\u041B\u0430\u0440\u0438\u043E\u043D\u043E\u0432\\MyProject\\src\\BackendApi\\DataAccess\\DataAccess.csproj",
               "RelativeDocumentMoniker": "DataAccess\\DataAccess.csproj",
@@ -335,11 +360,12 @@
               "RelativeToolTip": "DataAccess\\DataAccess.csproj",
               "ViewState": "AgIAAAMAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2024-12-18T06:51:40.301Z"
+              "WhenOpened": "2024-12-18T06:51:40.301Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 18,
+              "DocumentIndex": 20,
               "Title": "UserService.cs",
               "DocumentMoniker": "D:\\\u0423\u0447\u0435\u0431\u0430\\\u041B\u0430\u0440\u0438\u043E\u043D\u043E\u0432\\MyProject\\src\\BackendApi\\BusinessLogic\\Services\\UserService.cs",
               "RelativeDocumentMoniker": "BusinessLogic\\Services\\UserService.cs",
@@ -351,30 +377,6 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 19,
-              "Title": "BusinessLogic.csproj",
-              "DocumentMoniker": "D:\\\u0423\u0447\u0435\u0431\u0430\\\u041B\u0430\u0440\u0438\u043E\u043D\u043E\u0432\\MyProject\\src\\BackendApi\\BusinessLogic\\BusinessLogic.csproj",
-              "RelativeDocumentMoniker": "BusinessLogic\\BusinessLogic.csproj",
-              "ToolTip": "D:\\\u0423\u0447\u0435\u0431\u0430\\\u041B\u0430\u0440\u0438\u043E\u043D\u043E\u0432\\MyProject\\src\\BackendApi\\BusinessLogic\\BusinessLogic.csproj",
-              "RelativeToolTip": "BusinessLogic\\BusinessLogic.csproj",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2024-12-18T11:03:32.137Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 20,
-              "Title": "BackendApi.csproj",
-              "DocumentMoniker": "D:\\\u0423\u0447\u0435\u0431\u0430\\\u041B\u0430\u0440\u0438\u043E\u043D\u043E\u0432\\MyProject\\src\\BackendApi\\BackendApi\\BackendApi.csproj",
-              "RelativeDocumentMoniker": "BackendApi\\BackendApi.csproj",
-              "ToolTip": "D:\\\u0423\u0447\u0435\u0431\u0430\\\u041B\u0430\u0440\u0438\u043E\u043D\u043E\u0432\\MyProject\\src\\BackendApi\\BackendApi\\BackendApi.csproj",
-              "RelativeToolTip": "BackendApi\\BackendApi.csproj",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAABCAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2024-12-18T20:50:35.659Z"
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 21,
               "Title": "BusinessLogic",
               "DocumentMoniker": "D:\\\u0423\u0447\u0435\u0431\u0430\\\u041B\u0430\u0440\u0438\u043E\u043D\u043E\u0432\\MyProject\\src\\BackendApi\\BusinessLogic\\BusinessLogic.csproj",
@@ -382,7 +384,8 @@
               "ToolTip": "D:\\\u0423\u0447\u0435\u0431\u0430\\\u041B\u0430\u0440\u0438\u043E\u043D\u043E\u0432\\MyProject\\src\\BackendApi\\BusinessLogic\\BusinessLogic.csproj",
               "RelativeToolTip": "BusinessLogic\\BusinessLogic.csproj",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2024-12-19T08:53:15.686Z"
+              "WhenOpened": "2024-12-19T08:53:15.686Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -394,7 +397,8 @@
               "RelativeToolTip": "Domain\\Domain.csproj",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2024-12-18T14:20:11.851Z"
+              "WhenOpened": "2024-12-18T14:20:11.851Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
