@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Учеба\\Ларионов\\BackendApi\\Domain\\Domain.csproj",
+      "projectUniqueName": "D:\\Учеба\\Ларионов\\MyProject\\src\\BackendApi\\Domain\\Domain.csproj",
       "projectName": "Domain",
-      "projectPath": "D:\\Учеба\\Ларионов\\BackendApi\\Domain\\Domain.csproj",
+      "projectPath": "D:\\Учеба\\Ларионов\\MyProject\\src\\BackendApi\\Domain\\Domain.csproj",
       "packagesPath": "C:\\Users\\kch1c\\.nuget\\packages\\",
-      "outputPath": "D:\\Учеба\\Ларионов\\BackendApi\\Domain\\obj\\",
+      "outputPath": "D:\\Учеба\\Ларионов\\MyProject\\src\\BackendApi\\Domain\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\kch1c\\AppData\\Roaming\\NuGet\\NuGet.Config",

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Учеба\\Ларионов\\BackendApi\\BusinessLogic\\BusinessLogic.csproj": {}
+    "D:\\Учеба\\Ларионов\\MyProject\\src\\BackendApi\\BusinessLogic\\BusinessLogic.csproj": {}
   },
   "projects": {
-    "D:\\Учеба\\Ларионов\\BackendApi\\BusinessLogic\\BusinessLogic.csproj": {
+    "D:\\Учеба\\Ларионов\\MyProject\\src\\BackendApi\\BusinessLogic\\BusinessLogic.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Учеба\\Ларионов\\BackendApi\\BusinessLogic\\BusinessLogic.csproj",
+        "projectUniqueName": "D:\\Учеба\\Ларионов\\MyProject\\src\\BackendApi\\BusinessLogic\\BusinessLogic.csproj",
         "projectName": "BusinessLogic",
-        "projectPath": "D:\\Учеба\\Ларионов\\BackendApi\\BusinessLogic\\BusinessLogic.csproj",
+        "projectPath": "D:\\Учеба\\Ларионов\\MyProject\\src\\BackendApi\\BusinessLogic\\BusinessLogic.csproj",
         "packagesPath": "C:\\Users\\kch1c\\.nuget\\packages\\",
-        "outputPath": "D:\\Учеба\\Ларионов\\BackendApi\\BusinessLogic\\obj\\",
+        "outputPath": "D:\\Учеба\\Ларионов\\MyProject\\src\\BackendApi\\BusinessLogic\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\kch1c\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -29,8 +29,8 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "D:\\Учеба\\Ларионов\\BackendApi\\DataAccess\\DataAccess.csproj": {
-                "projectPath": "D:\\Учеба\\Ларионов\\BackendApi\\DataAccess\\DataAccess.csproj"
+              "D:\\Учеба\\Ларионов\\MyProject\\src\\BackendApi\\Domain\\Domain.csproj": {
+                "projectPath": "D:\\Учеба\\Ларионов\\MyProject\\src\\BackendApi\\Domain\\Domain.csproj"
               }
             }
           }
@@ -69,14 +69,14 @@
         }
       }
     },
-    "D:\\Учеба\\Ларионов\\BackendApi\\DataAccess\\DataAccess.csproj": {
+    "D:\\Учеба\\Ларионов\\MyProject\\src\\BackendApi\\Domain\\Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Учеба\\Ларионов\\BackendApi\\DataAccess\\DataAccess.csproj",
-        "projectName": "DataAccess",
-        "projectPath": "D:\\Учеба\\Ларионов\\BackendApi\\DataAccess\\DataAccess.csproj",
+        "projectUniqueName": "D:\\Учеба\\Ларионов\\MyProject\\src\\BackendApi\\Domain\\Domain.csproj",
+        "projectName": "Domain",
+        "projectPath": "D:\\Учеба\\Ларионов\\MyProject\\src\\BackendApi\\Domain\\Domain.csproj",
         "packagesPath": "C:\\Users\\kch1c\\.nuget\\packages\\",
-        "outputPath": "D:\\Учеба\\Ларионов\\BackendApi\\DataAccess\\obj\\",
+        "outputPath": "D:\\Учеба\\Ларионов\\MyProject\\src\\BackendApi\\Domain\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\kch1c\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -110,18 +110,6 @@
       "frameworks": {
         "net8.0": {
           "targetAlias": "net8.0",
-          "dependencies": {
-            "Microsoft.EntityFrameworkCore.SqlServer": {
-              "target": "Package",
-              "version": "[8.0.11, )"
-            },
-            "Microsoft.EntityFrameworkCore.Tools": {
-              "include": "Runtime, Build, Native, ContentFiles, Analyzers, BuildTransitive",
-              "suppressParent": "All",
-              "target": "Package",
-              "version": "[8.0.11, )"
-            }
-          },
           "imports": [
             "net461",
             "net462",

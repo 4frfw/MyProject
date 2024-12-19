@@ -1,15 +1,17 @@
-﻿using DataAccess.Interfaces;
-using DataAccess.Models;
-using DataAccess.Repositories;
+﻿using DataAccess.Repositories;
 using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
+using Domain.Interfaces;
+using Domain.Models;
+using Domain.Wrapper;
 
 namespace DataAccess.Wrapper
 {
     public class RepositoryWrapper : IRepositoryWrapper
+
     {
         private RatingsAndReviewsContext _repoContext;
 
@@ -32,9 +34,9 @@ namespace DataAccess.Wrapper
         }
 
 
-        public void Save()
+        public async Task Save()
         {
-            _repoContext.SaveChanges();
+            _repoContext.SaveChangesAsync();
         }
 
     }

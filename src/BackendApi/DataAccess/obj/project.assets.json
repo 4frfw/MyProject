@@ -1494,6 +1494,16 @@
             "rid": "win"
           }
         }
+      },
+      "Domain/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v8.0",
+        "compile": {
+          "bin/placeholder/Domain.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Domain.dll": {}
+        }
       }
     }
   },
@@ -3996,10 +4006,16 @@
         "system.windows.extensions.nuspec",
         "useSharedDesignerContext.txt"
       ]
+    },
+    "Domain/1.0.0": {
+      "type": "project",
+      "path": "../Domain/Domain.csproj",
+      "msbuildProject": "../Domain/Domain.csproj"
     }
   },
   "projectFileDependencyGroups": {
     "net8.0": [
+      "Domain >= 1.0.0",
       "Microsoft.EntityFrameworkCore.SqlServer >= 8.0.11",
       "Microsoft.EntityFrameworkCore.Tools >= 8.0.11"
     ]
@@ -4010,11 +4026,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Учеба\\Ларионов\\BackendApi\\DataAccess\\DataAccess.csproj",
+      "projectUniqueName": "D:\\Учеба\\Ларионов\\MyProject\\src\\BackendApi\\DataAccess\\DataAccess.csproj",
       "projectName": "DataAccess",
-      "projectPath": "D:\\Учеба\\Ларионов\\BackendApi\\DataAccess\\DataAccess.csproj",
+      "projectPath": "D:\\Учеба\\Ларионов\\MyProject\\src\\BackendApi\\DataAccess\\DataAccess.csproj",
       "packagesPath": "C:\\Users\\kch1c\\.nuget\\packages\\",
-      "outputPath": "D:\\Учеба\\Ларионов\\BackendApi\\DataAccess\\obj\\",
+      "outputPath": "D:\\Учеба\\Ларионов\\MyProject\\src\\BackendApi\\DataAccess\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\kch1c\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -4031,7 +4047,11 @@
       "frameworks": {
         "net8.0": {
           "targetAlias": "net8.0",
-          "projectReferences": {}
+          "projectReferences": {
+            "D:\\Учеба\\Ларионов\\MyProject\\src\\BackendApi\\Domain\\Domain.csproj": {
+              "projectPath": "D:\\Учеба\\Ларионов\\MyProject\\src\\BackendApi\\Domain\\Domain.csproj"
+            }
+          }
         }
       },
       "warningProperties": {

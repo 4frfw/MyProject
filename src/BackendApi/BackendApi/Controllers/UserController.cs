@@ -1,6 +1,7 @@
-﻿using BusinessLogic.Interfaces;
-using DataAccess.Models;
+﻿using Domain.Interfaces;
+using Domain.Models;
 using Microsoft.AspNetCore.Mvc;
+
 
 namespace BackendApi.Controllers
 {
@@ -20,10 +21,10 @@ namespace BackendApi.Controllers
             return Ok(await _userService.GetAll());
         }
 
-        [HttpGet("{id}")]
-        public async Task<IActionResult> GetById(int id)
+        [HttpGet("{UserId}")]
+        public async Task<IActionResult> GetById(int UserId)
         {
-            return Ok(await _userService.GetById(id));
+            return Ok(await _userService.GetById(UserId));
         }
 
         [HttpPost]

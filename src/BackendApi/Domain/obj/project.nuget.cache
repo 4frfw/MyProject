@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "5bqOTlL+Ze0=",
+  "dgSpecHash": "qL6c3vrrFSg=",
   "success": true,
-  "projectFilePath": "D:\\Учеба\\Ларионов\\BackendApi\\Domain\\Domain.csproj",
+  "projectFilePath": "D:\\Учеба\\Ларионов\\MyProject\\src\\BackendApi\\Domain\\Domain.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

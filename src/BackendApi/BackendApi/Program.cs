@@ -1,9 +1,9 @@
-
-using BusinessLogic.Interfaces;
+using Domain.Interfaces;
+using Domain.Models;
 using BusinessLogic.Services;
-using DataAccess.Models;
 using DataAccess.Wrapper;
 using Microsoft.EntityFrameworkCore;
+using Domain.Wrapper;
 
 namespace BackendApi
 {
