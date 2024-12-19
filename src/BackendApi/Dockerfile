@@ -1,8 +1,8 @@
-FROM mcr.microsoft.com/dotnet/sdk:8.0 as base
+FROM mcr.microsoft.com/dotnet/sdk:8.0 AS base
 
 EXPOSE 80
-ENV ASPNETCORE_URLS http://+:80
-ENV ASPNETCORE_ENVIRONMENT Development
+ENV ASPNETCORE_URLS="http://+:80"
+ENV ASPNETCORE_ENVIRONMENT="Development"
 
 WORKDIR /app
 
