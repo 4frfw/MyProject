@@ -4,10 +4,10 @@ EXPOSE 80
 ENV ASPNETCORE_URLS="http://+:80"
 ENV ASPNETCORE_ENVIRONMENT="Development"
 
-WORKDIR /BackendApi
+WORKDIR /app
 
 FROM mcr.microsoft.com/dotnet/sdk:8.0 AS build
-WORKDIR /
+WORKDIR /BackendApi
 
 COPY ["BackendApi/BackendApi.csproj", "BackendApi/"]
 COPY ["BusinessLogic/BusinessLogic.csproj", "BusinessLogic/"]
