@@ -1,5 +1,4 @@
-# используемый образ (OS) + установленная платформа .NET
-From mcr.microsoft.com/dotnet/sdk:8.0 as base
+FROM mcr.microsoft.com/dotnet/sdk:8.0 as base
 
 EXPOSE 80
 ENV ASPNETCORE_URLS http://+:80
